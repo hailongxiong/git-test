@@ -5,6 +5,6 @@ int main()
 {
     cout<<"Hello world!\n"<<endl;
 
-    cin>>"110";
+    cout<<"111111";
 
 }
